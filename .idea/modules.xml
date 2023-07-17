@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$USER_HOME$/PycharmProjects/AIProject/.idea/AIProject.iml" filepath="$USER_HOME$/PycharmProjects/AIProject/.idea/AIProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/AdversarialSearchLab.iml" filepath="$PROJECT_DIR$/.idea/AdversarialSearchLab.iml" />
+      <module fileurl="file://$USER_HOME$/PycharmProjects/CSP/.idea/CSP.iml" filepath="$USER_HOME$/PycharmProjects/CSP/.idea/CSP.iml" />
+      <module fileurl="file://$USER_HOME$/PycharmProjects/MachineLearning/.idea/MachineLearning.iml" filepath="$USER_HOME$/PycharmProjects/MachineLearning/.idea/MachineLearning.iml" />
+    </modules>
+  </component>
+</project>
